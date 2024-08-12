@@ -1,5 +1,4 @@
-## Hi there 👋
-
+_boas vindas ao meu perfil_
 
 **gabrielmachado10237/gabrielmachado10237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
